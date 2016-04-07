@@ -1,0 +1,24 @@
+{
+  "name": "cg-components-banner",
+  "version": "1.0.0",
+  "description": "Competentum Group components banner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/competentum/cg-components-banner.git"
+  },
+  "keywords": [
+    "Competentum",
+    "Group",
+    "Banner"
+  ],
+  "author": "Alexey Pilyugin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/competentum/cg-components-banner/issues"
+  },
+  "homepage": "https://github.com/competentum/cg-components-banner#readme"
+}
