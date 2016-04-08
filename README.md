@@ -15,8 +15,5 @@ var banner = require('cg-components-banner');
 
 ```
 
-## Contacts
-Alexey Pilyugin ([pilyugin@competentum.ru](mailto:pilyugin@competentum.ru))
-
 [npm-url]: https://www.npmjs.com/package/cg-components-banner
 [npm-image]: https://img.shields.io/npm/v/cg-components-banner.svg
