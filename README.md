@@ -4,6 +4,10 @@
 [![NPM][npm-image]][npm-url]
 
 
+## Installation
+
+`npm install cg-components-banner`
+
 ## Usage
 ```javascript
 // this code returns string with banner
