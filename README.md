@@ -1,7 +1,8 @@
 #cg-components-banner
  > CommonJS module which exports banner for Competentum Group JS components.
 
-[![NPM version][npm-image]][npm-url]
+[![NPM][npm-image]][npm-url]
+
 
 ## Usage
 ```javascript
@@ -12,3 +13,6 @@ var banner = require('cg-components-banner');
 
 ## Contacts
 Alexey Pilyugin ([pilyugin@competentum.ru](mailto:pilyugin@competentum.ru))
+
+[npm-url]: https://www.npmjs.com/package/cg-components-banner
+[npm-image]: https://img.shields.io/npm/v/cg-components-banner.svg
