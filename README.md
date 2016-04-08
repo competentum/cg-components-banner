@@ -1,5 +1,7 @@
 #cg-components-banner
- > Competentum Group components banner.
+ > CommonJS module which exports banner for Competentum Group JS components.
+
+[![NPM version][npm-image]][npm-url]
 
 ## Usage
 ```javascript
