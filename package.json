@@ -1,6 +1,6 @@
 {
   "name": "cg-components-banner",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Competentum Group components banner",
   "main": "index.js",
   "scripts": {
