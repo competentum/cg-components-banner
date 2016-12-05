@@ -16,4 +16,4 @@ var banner = require('cg-components-banner');
 ```
 
 [npm-url]: https://www.npmjs.com/package/cg-components-banner
-[npm-image]: https://img.shields.io/npm/v/cg-components-banner.svg
+[npm-image]: https://img.shields.io/npm/v/cg-components-banner.svg?style=flat-square
